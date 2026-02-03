@@ -1,0 +1,13 @@
+#nav{
+    color: blue;
+    justify-content: end;
+    display: flex;
+    gap:20px;
+
+}
+.fixed{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
